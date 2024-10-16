@@ -24,4 +24,4 @@ Este proyecto consiste en la implementación de una capa de persistencia utiliza
      Contraseña: (vacío)
     
 ## Siguiente TP: Envers (auditoría)
-Link al próximo TP: https://github.com/AgusAstuDev/jpaProyeto.git
+Link al próximo TP: https://github.com/AgusAstuDev/PbaEnvers.git
